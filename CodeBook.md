@@ -1,13 +1,4 @@
----
-title: "CodeBook"
-author: "Santiago Correa"
-date: "17 de enero de 2020"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# CodeBook
 
 This is a codebook that describes the variables, the data, and any transformations or work that were performed to clean up the data.
 
