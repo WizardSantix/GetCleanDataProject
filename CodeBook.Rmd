@@ -255,4 +255,4 @@ Frequency-domain signals (variables prefixed by a **f**), resulting from the app
 - Average, standard deviation of the frequency components of the frequency-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time):
 
 	- `fBodyBodyGyroJerkMag-mean()`
-	- `fBodyBodyGyroJerkMag-std()`
+	- `fBodyBodyGyroJerkMag-std()`.
